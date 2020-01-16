@@ -104,7 +104,7 @@
                <effect>
                   <ImageInput>
                      <source>
-                        <Image url="file:/C:/Users/yama-/Desktop/AFFINE_CIPHER/src/sample/Images/2.png" />
+                        <Image url="Images/2.png" />
                      </source>
                   </ImageInput>
                </effect>
